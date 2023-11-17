@@ -1,0 +1,22 @@
+Nama: Reza Faisar Rahmat
+Kelas: IF22C
+NIM: 22416255201113
+
+Soal dan Jawaban UTS PEMWEB (1 dan 2)
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab : Jadi Framework adalah semacam "kerangka" yang membantu kita membangun aplikasi dengan lebih mudah dan cepat. Kerangka ini berisi kumpulan komponen dan fitur yang sudah dipersiapkan sebelumnya, sehingga kita tidak perlu menulisnya dari awal.
+
+2. Pertanyaan seputar projek
+a. Sebutkan tema proyek yang sedang digarap!
+Jawab: Tema projek yang sedang saya kerjakan dengan rekan satu tim saya yaitu Sistem akademik sekolah SMA/SMK Bertepatan disekolah SMAN 2 KARAWANG, Sarana yangsedang di butuhkan oleh sekolah tersebut adalah pembuatan sistem aplikasi ujian Sekolah
+
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+Jawab: 
+- Bagas : jobdesk teman saya di projek ini sebagai desain uml dan front end di dalam projeck ini
+- Tanzilan : Jobdesk teman saya yang satu ini focus terhadap laporan projek yang sedang berjalan ini
+- Reza (saya): Jobdesk saya sebagai analisis desain database
+
+Sebenarnya pembagian jobdesk ini menurut saya hanya formalitas semata, karena dalam pengerjaan semuanya kita kerjakan secara bareng bareng. Supaya masing masing dari kita mengerti dan paham semua kerangka dari awal hingga akhir final projek ini nanti.
+
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab: Jadi permasalahan yang kita dapat setelah survei di sekolah SMAN 2 KARAWANG dengan menyesuaikan tema kita yaitu Sistem akademik sekolah. Bahwa masalah yang ada yaitu mereka sedang memerlukan sebuah aplikasi ujian sekolah. Tetapi secara syestem mereka sudah mempunyai aplikasi untuk ujian, Namun mereka sedang membutuhkan sebuah aplikasi yang hanya bisa stay/ nge lock di aplikasi itu saja.(aplikasi ujian). Jadi kita sepakat dengan pihak sekolah bahwasannya kita akan membuat sistem aplikasi ujian.
